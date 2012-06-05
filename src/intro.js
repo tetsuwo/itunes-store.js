@@ -7,6 +7,3 @@
  *
  * Date: 2012-05-29
  */
-
-var iTunesStore = iTunesStore || {};
-

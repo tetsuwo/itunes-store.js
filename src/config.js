@@ -1,3 +1,5 @@
+var iTunesStore = iTunesStore || {};
+
 (function(iTS, doc, win, undef) {
 
 
