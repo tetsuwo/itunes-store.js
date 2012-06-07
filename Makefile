@@ -20,6 +20,7 @@ MODULES = ${SRC_DIR}/intro.js\
 	${BASE_FILES}\
 	${SRC_DIR}/outro.js
 
+# -- commands --
 
 all: clean ${DIST_DIR} uncompressed minified 
 	@@echo "Completed."
